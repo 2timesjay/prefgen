@@ -3,4 +3,5 @@ optuna-dashboard[preferential]>=0.13.0
 pillow
 optuna-fast-fanova
 gunicorn
+requests
 
